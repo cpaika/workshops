@@ -77,6 +77,7 @@ asdf global ruby latest
 ### Install Jekyll
 ```
 gem install bundler jekyll
+jekyll --version
 ```
 
 ### Initialize a new blog
@@ -91,10 +92,13 @@ git remote add origin <git repo>
 * Should just work (tm)
 
 ### DNS Setup 😬
-* We're going to CNAME to our github pages blog
+* We're going to A record and CNAME to our github pages blog
 
+### Setup Custom Domain on Github
 ### Publish a "hello world" post
 
+###
+* https://jekyllrb.com/m
 ### Link to your LinkedIn
 
 ### We're done!
